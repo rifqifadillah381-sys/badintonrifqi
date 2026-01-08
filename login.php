@@ -51,7 +51,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                     <div class="text-center mb-3">
                         <i class="bi bi-person-circle h1 display-4 text-danger"></i>
                         <h3 class="fw-bold mt-2">Login Admin</h3>
-                        <p class="text-muted">UKM Bulutangkis NSU</p>
+                        <p welcome to my daily Journal</p>
                         <hr />
                     </div>
 
